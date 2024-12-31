@@ -1,0 +1,11 @@
+telethon
+redis
+requests
+python-dotenv
+redis
+SQLAlchemy
+httpx
+cryptography
+pymysql
+kafka-python
+aiokafka
